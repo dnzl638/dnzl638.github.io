@@ -19,3 +19,4 @@ def calculate_efficiency(power_kw, max_speed):
 
 # 6400 kW at 230 km/h
 print(calculate_efficiency(6400, 230))
+```
