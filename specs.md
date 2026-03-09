@@ -22,3 +22,5 @@ def calculate_efficiency(power_kw, max_speed):
 print(calculate_efficiency(6400, 230))
 
 ```
+
+[Back to Home](./index) | [View Railjet](./railjet)
