@@ -6,7 +6,7 @@ nav_order: 3
 
 # Fleet Technical Specifications
 
-The ÖBB fleet relies on precise engineering. For example, the **Siemens EuroSprinter (Taurus)** locomotive is world-renowned for its power.
+The ÖBB fleet relies on precise engineering. For example, the **Siemens EuroSprinter ES64U2 (Taurus)** locomotive is world-renowned for its power.
 
 ### Power Calculation Example
 In a CMS environment, we might use a small script to calculate efficiency:

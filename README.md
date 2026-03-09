@@ -26,7 +26,7 @@ Local images are stored in the `/assets/` directory and called using Liquid tags
 `![Description]({{ site.baseurl }}/assets/image.jpg)`
 
 ### 3. Logic & Calculations
-To demonstrate the "Technical Specs" capability, a Python snippet is included to illustrate how fleet power-to-weight ratios are calculated for the Siemens Taurus locomotives.
+To demonstrate the "Technical Specs" capability, a Python snippet is included to illustrate how fleet power-to-weight ratios are calculated for the Siemens Taurus ES64U2 locomotives.
 
 ---
 
