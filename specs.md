@@ -11,7 +11,8 @@ The ÖBB fleet relies on precise engineering. For example, the **Siemens EuroSpr
 ### Power Calculation Example
 In a CMS environment, we might use a small script to calculate efficiency:
 
-```python
+``` python
+
 def calculate_efficiency(power_kw, max_speed):
     # Standard Taurus Specs
     efficiency_score = (power_kw / max_speed) * 0.85
@@ -19,4 +20,5 @@ def calculate_efficiency(power_kw, max_speed):
 
 # 6400 kW at 230 km/h
 print(calculate_efficiency(6400, 230))
+
 ```
