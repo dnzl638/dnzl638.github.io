@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 # 🇦🇹 Welcome to the ÖBB Fleet Portal
-Explore the backbone of Austrian rail travel. From the high-speed **Railjet** to the rugged **Taurus ES64U2** locomotives.
+Explore the backbone of Austrian rail travel. From the high-speed **Railjet** to the rugged **Taurus ES64U2** (the best) locomotives.
 
 * [Explore the Railjet Fleet](./railjet)
 * [Technical Specifications](./specs)
