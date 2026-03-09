@@ -1,9 +1,9 @@
-# 🚂 ÖBB Fleet CMS Project
-**Status:** Deployed & Grade-Ready ✅
+# ÖBB Fleet CMS Project
+**Status:** Deployed & Grade-Ready
 
 This project is a Jekyll-based Static Site Generator (SSG) implementation for the **CMS System** course module. It showcases the Austrian Federal Railways (ÖBB) fleet through a modern, automated web architecture.
 
-## 📋 Grading Criteria Checklist
+## Grading Criteria Checklist
 
 | Criterion | Implementation Detail |
 | :--- | :--- |
@@ -16,7 +16,7 @@ This project is a Jekyll-based Static Site Generator (SSG) implementation for th
 
 ---
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 ### 1. CMS Workflow
 This project utilizes a **File-based CMS** approach. Content is authored in Markdown, structured with YAML Front Matter, and transformed into high-performance static HTML.
@@ -30,17 +30,5 @@ To demonstrate the "Technical Specs" capability, a Python snippet is included to
 
 ---
 
-## 🚀 How to Run Locally
-
-1. Clone the repository:
-   `git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git`
-2. Install dependencies:
-   `bundle install`
-3. Start the Jekyll server:
-   `bundle exec jekyll serve`
-4. Open your browser at `http://localhost:4000`
-
----
-
-## ✍️ Author
-**[Your Name/Student ID]** *Part of the CMS System Course - 10% Grade Weight*
+## Author
+**[Deniz Litschauer/60145720250370]**
