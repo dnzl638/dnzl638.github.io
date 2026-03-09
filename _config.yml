@@ -1,3 +1,27 @@
-theme: jekyll-theme-minimal
-title: Deniz' homepage
-description: Bookmark this to keep an eye on my project updates!
+# Site Settings
+title: ÖBB Fleet CMS Project
+email: deniz.litschi@gmail.com
+description: >- # this means to ignore newlines until "baseurl"
+  A Jekyll-based fleet management overview for the Austrian Federal Railways.
+  Part of the CMS System course module.
+
+# URL Settings (CRITICAL FOR GITHUB PAGES)
+# If your URL is username.github.io/obb-project, set baseurl to "/obb-project"
+baseurl: "/dnzl638.github.io" 
+url: "https://dnzl638.github.io"
+
+# Theme Selection
+theme: jekyll-theme-midnight
+
+# Build Settings
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude these from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
